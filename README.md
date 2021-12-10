@@ -1,4 +1,4 @@
-# Tg_Anti_UsersChannel
+# Anti Channel
 A Bot Telegram Anti Users Channel to automatic ban users who using channel to send message in group.
 
 ### Features:
@@ -14,7 +14,7 @@ A Bot Telegram Anti Users Channel to automatic ban users who using channel to se
 ### Host Locally:
 ```shell
 git clone https://github.com/Skyzu/AntiChannel
-cd Tg_Anti_UsersChannel
+cd AntiChannel
 pip3 install -r requirements.txt
 # Setup Configurations in config.py file!
 python3 bot.py
